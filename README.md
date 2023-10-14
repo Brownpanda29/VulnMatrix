@@ -38,7 +38,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email].
+For any questions or inquiries, please contact **Ethan Prime** at **ethanprime.c137@protmail.com**.
 
 ---
 
